@@ -1,3 +1,3 @@
 # Introduction
 
-Winternship 2025
+MERN Bootcamp
